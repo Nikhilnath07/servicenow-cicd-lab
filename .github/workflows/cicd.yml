@@ -1,10 +1,3 @@
-# Cloud Dimensions - ServiceNow CI/CD lab pipeline
-# Branch: lab2-start  (Lab 2 / Lesson 4 - Promote an Application via the CICD API)
-# Starting state: checkout plus a pre-written instance-resolution step.
-# Your task is to add the apply changes step, including its own env block
-# (each sncicd action authenticates on its own; there is no shared
-# authenticate step in the real ServiceNow/sncicd-* action family).
-
 name: CICD Pipeline
 
 on:
@@ -18,13 +11,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-
       # Pre-written for you - you do not need to edit this step.
-      # The sncicd-* actions build their request URL as
-      # https://${nowSourceInstance}.service-now.com/api/... so they need the
-      # bare instance name only. This step accepts whatever you pasted into the
-      # SN_INSTANCE_DOMAIN variable (full URL, hostname, or bare name), reduces
-      # it to that bare form, and stops the run with a clear message if it cannot.
       - name: Resolve ServiceNow instance
         env:
           RAW: ${{ vars.SN_INSTANCE_DOMAIN }}
@@ -33,13 +20,6 @@ jobs:
             echo "::error::SN_INSTANCE_DOMAIN is not set. Add it under Settings, then Secrets and variables, then Actions, on the Variables tab."
             exit 1
           fi
-          # This step cleans up whatever you pasted into SN_INSTANCE_DOMAIN: it
-          # lowercases the value, strips a leading https:// or trailing slash, and
-          # removes a trailing .service-now.com if you included it.
-          # It also rejects angle brackets, quotes, and other characters that do not
-          # belong in a hostname - for example, if you paste the placeholder text
-          # nowlearning-<your-instance-id>.lab literally instead of your real
-          # instance name, this step catches that and tells you what to fix.
           INSTANCE=$(printf '%s' "$RAW" \
             | tr -d '[:space:]' \
             | tr '[:upper:]' '[:lower:]' \
@@ -60,14 +40,11 @@ jobs:
           echo "Resolved ServiceNow instance: $INSTANCE"
           echo "SN_INSTANCE=$INSTANCE" >> "$GITHUB_ENV"
 
-      # TODO: Add apply changes step here
-      
-       - name: Apply changes
-         uses: ServiceNow/sncicd-apply-changes@2.0.0
-         continue-on-error: true
-         env:
+      - name: Apply changes
+        uses: ServiceNow/sncicd-apply-changes@2.0.0
+        continue-on-error: true
+        env:
           nowUsername: ${{ secrets.SN_USERNAME }}
           nowPassword: ${{ secrets.SN_PASSWORD }}
           nowSourceInstance: ${{ env.SN_INSTANCE }}
           appScope: x_1896695_work_o_0
-  
