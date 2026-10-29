@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>view_count</data_item_field_name>
+        <execution_script/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>120</order>
+        <record_id_field/>
+        <screen display_value="Details Screen - Details">125d38d293ef8390461836befaba10a5</screen>
+        <screen_data_item_table>sn_km_mr_st_kb_knowledge</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-27 17:06:26</sys_created_on>
+        <sys_id>d65d38d293ef8390461836befaba10da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view_count</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_screen_field_d65d38d293ef8390461836befaba10da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-27 17:06:26</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

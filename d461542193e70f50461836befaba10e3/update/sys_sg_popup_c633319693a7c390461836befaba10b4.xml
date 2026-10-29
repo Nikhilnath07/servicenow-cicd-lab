@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_popup">
+    <sys_sg_popup action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <blur_background>true</blur_background>
+        <dismissible>false</dismissible>
+        <name>Terms &amp; Condition</name>
+        <sys_class_name>sys_sg_popup</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-27 21:01:47</sys_created_on>
+        <sys_id>c633319693a7c390461836befaba10b4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Terms &amp; Condition</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_popup_c633319693a7c390461836befaba10b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-28 05:06:48</sys_updated_on>
+        <view_config display_value="Terms &amp; Condition">b4cea91e9367c390461836befaba1096</view_config>
+    </sys_sg_popup>
+</record_update>

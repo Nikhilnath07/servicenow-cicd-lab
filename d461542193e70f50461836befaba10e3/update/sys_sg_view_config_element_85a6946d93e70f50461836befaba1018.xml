@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <creation_method/>
+        <name>opened_by-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 06:21:52</sys_created_on>
+        <sys_id>85a6946d93e70f50461836befaba1018</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by-FieldLabel</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_85a6946d93e70f50461836befaba1018</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 06:21:52</sys_updated_on>
+        <view_config display_value="My Incidents Detail Screen View Config">85a6546d93e70f50461836befaba10b4</view_config>
+        <view_template_slot display_value="text_06">cb878d7041275010f877183fc9b8be59</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

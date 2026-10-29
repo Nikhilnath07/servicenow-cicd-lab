@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_content_section_m2m_item_stream_container">
+    <sys_sg_content_section_m2m_item_stream_container action="INSERT_OR_UPDATE">
+        <content_section/>
+        <item_stream_container display_value="New stream container">c2e229e993634f50461836befaba109f</item_stream_container>
+        <order/>
+        <sys_class_name>sys_sg_content_section_m2m_item_stream_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 11:55:05</sys_created_on>
+        <sys_id>06e229e993634f50461836befaba10a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_content_section_m2m_item_stream_container_06e229e993634f50461836befaba10a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 11:55:05</sys_updated_on>
+    </sys_sg_content_section_m2m_item_stream_container>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (My Incidents)">11a6946d93e70f50461836befaba10e1</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit</name>
+        <order/>
+        <parent>9da6946d93e70f50461836befaba1031</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 06:21:53</sys_created_on>
+        <sys_id>d5a6d46d93e70f50461836befaba1019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d5a6d46d93e70f50461836befaba1019</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 06:21:53</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d5a6d46d93e70f50461836befaba1019"/>
+</record_update>

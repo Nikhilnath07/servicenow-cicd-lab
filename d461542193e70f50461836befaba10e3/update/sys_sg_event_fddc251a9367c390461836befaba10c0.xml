@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_event">
+    <sys_sg_event action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Terms &amp; Condition upon login</name>
+        <source_id>a42d0b0653d033002d96ddeeff7b1200</source_id>
+        <source_table>sys_sg_native_client</source_table>
+        <sys_class_name>sys_sg_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-27 20:33:55</sys_created_on>
+        <sys_id>fddc251a9367c390461836befaba10c0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Terms &amp; Condition upon login</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_event_fddc251a9367c390461836befaba10c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-28 10:53:27</sys_updated_on>
+        <type display_value="OnLogin">4554a173673031107b19b9770cf9223a</type>
+    </sys_sg_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=fddc251a9367c390461836befaba10c0"/>
+</record_update>

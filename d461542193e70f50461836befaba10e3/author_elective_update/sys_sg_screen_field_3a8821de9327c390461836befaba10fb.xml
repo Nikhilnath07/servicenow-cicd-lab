@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>description</data_item_field_name>
+        <execution_script/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>70</order>
+        <record_id_field/>
+        <screen display_value="Details Screen - Details">628821de9327c390461836befaba10cf</screen>
+        <screen_data_item_table>problem</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-27 20:15:08</sys_created_on>
+        <sys_id>3a8821de9327c390461836befaba10fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_screen_field_3a8821de9327c390461836befaba10fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-27 20:15:08</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</application>
+        <file_path/>
+        <instance_id>5849792aebd4e6dcc040fddacad0cd9e</instance_id>
+        <instance_name>dev301012</instance_name>
+        <name>sys_sg_screen_field_3a8821de9327c390461836befaba10fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>description</data_item_field_name><execution_script/><field_name/><hidden>false</hidden><order>70</order><record_id_field/><screen display_value="Details Screen - Details">628821de9327c390461836befaba10cf</screen><screen_data_item_table>problem</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-27 20:15:08</sys_created_on><sys_id>3a8821de9327c390461836befaba10fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>description</sys_name><sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package><sys_policy/><sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope><sys_update_name>sys_sg_screen_field_3a8821de9327c390461836befaba10fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-27 20:15:08</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>-889364220</payload_hash>
+        <record_name>description</record_name>
+        <reverted_from/>
+        <source>2461542193e70f50461836befaba10ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-27 20:15:08</sys_created_on>
+        <sys_id>be8821de9327c390461836befaba10fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0e481d44e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-27 20:15:08</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>7e8821de2127c390d6eed4eea9d629fd</update_guid>
+        <update_guid_history>7e8821de2127c390d6eed4eea9d629fd:-889364220</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-27 20:15:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>61534215a0cf4985b28111db566fab09</sys_id>
+        <sys_metadata>3a8821de9327c390461836befaba10fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_scope_delete display_value="">061826e0413b497080fb69308c99f810</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_3a8821de9327c390461836befaba10fb</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_3a8821de9327c390461836befaba10fb">be8821de9327c390461836befaba10fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-27 20:15:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

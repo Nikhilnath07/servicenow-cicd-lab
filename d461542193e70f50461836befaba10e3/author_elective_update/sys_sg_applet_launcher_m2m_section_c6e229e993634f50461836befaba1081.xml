@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="work Orders">f8a6146d93e70f50461836befaba10f7</applet_launcher>
+        <order/>
+        <section/>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 11:55:04</sys_created_on>
+        <sys_id>c6e229e993634f50461836befaba1081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_c6e229e993634f50461836befaba1081</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 11:55:04</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</application>
+        <file_path/>
+        <instance_id>5849792aebd4e6dcc040fddacad0cd9e</instance_id>
+        <instance_name>dev301012</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_c6e229e993634f50461836befaba1081</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="work Orders">f8a6146d93e70f50461836befaba10f7</applet_launcher><order/><section/><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-25 11:55:04</sys_created_on><sys_id>c6e229e993634f50461836befaba1081</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package><sys_policy/><sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_c6e229e993634f50461836befaba1081</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-25 11:55:04</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-1784428098</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2461542193e70f50461836befaba10ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 11:55:40</sys_created_on>
+        <sys_id>b6036de993634f50461836befaba10f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0d86bd39a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 11:55:40</sys_updated_on>
+        <type>Launcher section mapping</type>
+        <update_guid>c6e229e99a634f50aa624e1360c6949d</update_guid>
+        <update_guid_history>c6e229e99a634f50aa624e1360c6949d:1961867418,c6e229e99a634f50aa624e1360c6949d:1961867418</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 11:55:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>da95224b8de0447cb2febd3ae5aa88c4</sys_id>
+        <sys_metadata>c6e229e993634f50461836befaba1081</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_scope_delete display_value="">061826e0413b497080fb69308c99f810</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_c6e229e993634f50461836befaba1081</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_c6e229e993634f50461836befaba1081">b6036de993634f50461836befaba10f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 11:55:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

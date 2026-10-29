@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Open Create Incident">3723b52487203300e0ef0cf888cb0b0b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Create Incident</label>
+        <location>footer</location>
+        <name>Create incident</name>
+        <order/>
+        <parent>0e0711a193234f50461836befaba1063</parent>
+        <parent_table>sys_sg_list_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 11:27:20</sys_created_on>
+        <sys_id>3b8cd5e993234f50461836befaba10f4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create incident</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3b8cd5e993234f50461836befaba10f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 12:11:30</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=3b8cd5e993234f50461836befaba10f4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</application>
+        <file_path/>
+        <instance_id>5849792aebd4e6dcc040fddacad0cd9e</instance_id>
+        <instance_name>dev301012</instance_name>
+        <name>sys_sg_button_instance_3b8cd5e993234f50461836befaba10f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Open Create Incident">3723b52487203300e0ef0cf888cb0b0b</button><color_theme>primary</color_theme><description/><disable_offline>false</disable_offline><field_name/><icon/><label>Create Incident</label><location>footer</location><name>Create incident</name><order/><parent>0e0711a193234f50461836befaba1063</parent><parent_table>sys_sg_list_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-25 11:27:20</sys_created_on><sys_id>3b8cd5e993234f50461836befaba10f4</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Create incident</sys_name><sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package><sys_policy/><sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope><sys_update_name>sys_sg_button_instance_3b8cd5e993234f50461836befaba10f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-25 12:11:30</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=3b8cd5e993234f50461836befaba10f4"/></record_update>]]></payload>
+        <payload_hash>497352580</payload_hash>
+        <record_name>Create incident</record_name>
+        <reverted_from/>
+        <source>2461542193e70f50461836befaba10ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 12:11:30</sys_created_on>
+        <sys_id>62a6e12593a34f50461836befaba106f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0d87a53020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 12:11:30</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>22a6e1259da34f5097d2fb5388caea6e</update_guid>
+        <update_guid_history>22a6e1259da34f5097d2fb5388caea6e:497352580,c684a1edbd634f50b87c208ba9dc64f2:-186890798,778cd5e909234f50fc713cbbbbdfeaf8:-2056744704</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-28 06:15:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>37241d3d72824c769ed7ad815a9d84a4</sys_id>
+        <sys_metadata>3b8cd5e993234f50461836befaba10f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create incident</sys_name>
+        <sys_package display_value="Work Order Mobile" source="x_1896695_work_o_0">d461542193e70f50461836befaba10e3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work Order Mobile">d461542193e70f50461836befaba10e3</sys_scope>
+        <sys_scope_delete display_value="">061826e0413b497080fb69308c99f810</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_3b8cd5e993234f50461836befaba10f4</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_3b8cd5e993234f50461836befaba10f4">62a6e12593a34f50461836befaba106f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-28 06:15:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
