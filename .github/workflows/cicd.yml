@@ -4,6 +4,7 @@
 # Your task is to add the apply changes step, including its own env block
 # (each sncicd action authenticates on its own; there is no shared
 # authenticate step in the real ServiceNow/sncicd-* action family).
+
 name: CICD Pipeline
 
 on:
@@ -16,6 +17,7 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
 
       # Pre-written for you - you do not need to edit this step.
       # The sncicd-* actions build their request URL as
