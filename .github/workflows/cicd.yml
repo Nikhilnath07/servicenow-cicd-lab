@@ -61,9 +61,9 @@ jobs:
       # TODO: Add apply changes step here
       
        - name: Apply changes
-        uses: ServiceNow/sncicd-apply-changes@2.0.0
-        continue-on-error: true
-        env:
+         uses: ServiceNow/sncicd-apply-changes@2.0.0
+         continue-on-error: true
+         env:
           nowUsername: ${{ secrets.SN_USERNAME }}
           nowPassword: ${{ secrets.SN_PASSWORD }}
           nowSourceInstance: ${{ env.SN_INSTANCE }}
